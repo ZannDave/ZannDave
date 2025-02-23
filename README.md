@@ -1,42 +1,18 @@
-# 👋 Halo, Saya Zann!
 
-Halo! Saya Zann, seorang siswa SMP berusia 15 tahun yang punya hobi ngoding. Saya senang belajar hal-hal baru, terutama yang berhubungan dengan pemrograman dan teknologi. Di sini, Anda akan menemukan proyek-proyek kecil, eksperimen, dan hasil belajar saya selama menjelajahi dunia coding.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:witzzjann@gmail.com) 
 
-## 🛠️ Teknologi & Tools
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZannDave&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZannDave&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannDave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Berikut beberapa teknologi dan tools yang saya pelajari dan gunakan:
-- **Bahasa Pemrograman**: JavaScript, Python
-- **Framework & Library**: Masih dipelajari
-- **Tools Lainnya**: Github, Code editor, Deepseek(Untuk styling)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## 🌱 Sedang Dipelajari
+---
+[![](https://visitcount.itsvg.in/api?id=ZannDave&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Saat ini, saya sedang fokus mempelajari:
-- Advanced JS
-- Advanced Py
-- Basic PHP
-- Basic C++
-- Basic Java
-  
-## 💼 Proyek Saya
-
-Berikut beberapa proyek yang pernah saya buat:
-- Kalkulator Sederhana (Py, Js)
-- Konversi Sederhana (Py, Js)
-- Tebak Angka (Py)
-- Noted : Sayangnya projek yg Py kehapus :((
-
-## 🎯 Tujuan
-
-Saya ingin terus mengembangkan skill coding saya dan suatu hari nanti bisa membuat proyek-proyek yang bermanfaat untuk banyak orang. Selain itu, saya juga ingin berkolaborasi dengan teman-teman yang punya minat sama di dunia pemrograman.
-
-## 📫 Hubungi Saya
-
-Jika kamu ingin ngobrol, berkolaborasi, atau sekadar menyapa, kamu bisa menghubungi saya melalui:
-- **Email**: witzzjann@gmail.com || khususdcsamagit@gmail.com 
-- **Instagram**: -
-- **Discord**: -
-
-## 🌟 Terima Kasih
-
-Terima kasih sudah mampir ke profil GitHub saya! Jangan ragu untuk melihat proyek-proyek saya dan memberikan masukan. Semoga kita bisa belajar bersama dan saling menginspirasi! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
