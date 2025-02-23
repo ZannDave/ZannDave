@@ -24,7 +24,7 @@ Berikut beberapa proyek yang pernah saya buat:
 - Kalkulator Sederhana (Py, Js)
 - Konversi Sederhana (Py, Js)
 - Tebak Angka (Py)
-Noted : Sayangnya projek yg Py kehapus :((
+- Noted : Sayangnya projek yg Py kehapus :((
 
 ## 🎯 Tujuan
 
